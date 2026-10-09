@@ -1,0 +1,842 @@
+[
+ {
+  "text": "Need a 6 night Japan trip for 3 adults, budget 1.4 lakh, packed trip, 4 star hotel",
+  "dest": "Japan",
+  "nights": 6,
+  "adults": 3,
+  "budget": 140000
+ },
+ {
+  "text": "1 adults want 9 days in London around \u20b9102,000. relaxed pace please, 4-star",
+  "dest": "London",
+  "nights": 8,
+  "adults": 1,
+  "budget": 102000
+ },
+ {
+  "text": "Plan Bangkok for 4 adults, 8 nights, 129k budget. We prefer a relaxed itinerary. 4 star",
+  "dest": "Bangkok",
+  "nights": 8,
+  "adults": 4,
+  "budget": 129000
+ },
+ {
+  "text": "Need a 3 night London trip for 4 adults, budget 1.25 lakh, relaxed trip, 4 star hotel",
+  "dest": "London",
+  "nights": 3,
+  "adults": 4,
+  "budget": 125000
+ },
+ {
+  "text": "2 adults want 5 days in London around \u20b9160,000. relaxed pace please, 4-star",
+  "dest": "London",
+  "nights": 4,
+  "adults": 2,
+  "budget": 160000
+ },
+ {
+  "text": "Plan Bangkok for 2 adults, 8 nights, 130k budget. We prefer a balanced itinerary. 4 star",
+  "dest": "Bangkok",
+  "nights": 8,
+  "adults": 2,
+  "budget": 130000
+ },
+ {
+  "text": "Need a 6 night Maldives trip for 3 adults, budget 1.73 lakh, packed trip, 4 star hotel",
+  "dest": "Maldives",
+  "nights": 6,
+  "adults": 3,
+  "budget": 173000
+ },
+ {
+  "text": "3 adults want 8 days in London around \u20b9198,000. balanced pace please, 4-star",
+  "dest": "London",
+  "nights": 7,
+  "adults": 3,
+  "budget": 198000
+ },
+ {
+  "text": "Plan Bali for 4 adults, 4 nights, 180k budget. We prefer a relaxed itinerary. 4 star",
+  "dest": "Bali",
+  "nights": 4,
+  "adults": 4,
+  "budget": 180000
+ },
+ {
+  "text": "Need a 3 night Maldives trip for 1 adults, budget 0.64 lakh, balanced trip, 4 star hotel",
+  "dest": "Maldives",
+  "nights": 3,
+  "adults": 1,
+  "budget": 64000
+ },
+ {
+  "text": "4 adults want 7 days in Singapore around \u20b9173,000. balanced pace please, 4-star",
+  "dest": "Singapore",
+  "nights": 6,
+  "adults": 4,
+  "budget": 173000
+ },
+ {
+  "text": "Plan Japan for 3 adults, 7 nights, 131k budget. We prefer a balanced itinerary. 4 star",
+  "dest": "Japan",
+  "nights": 7,
+  "adults": 3,
+  "budget": 131000
+ },
+ {
+  "text": "Need a 5 night Bangkok trip for 2 adults, budget 1.99 lakh, relaxed trip, 4 star hotel",
+  "dest": "Bangkok",
+  "nights": 5,
+  "adults": 2,
+  "budget": 199000
+ },
+ {
+  "text": "1 adults want 4 days in Dubai around \u20b9156,000. packed pace please, 4-star",
+  "dest": "Dubai",
+  "nights": 3,
+  "adults": 1,
+  "budget": 156000
+ },
+ {
+  "text": "Plan Japan for 3 adults, 4 nights, 128k budget. We prefer a balanced itinerary. 4 star",
+  "dest": "Japan",
+  "nights": 4,
+  "adults": 3,
+  "budget": 128000
+ },
+ {
+  "text": "Need a 6 night Dubai trip for 4 adults, budget 0.81 lakh, balanced trip, 4 star hotel",
+  "dest": "Dubai",
+  "nights": 6,
+  "adults": 4,
+  "budget": 81000
+ },
+ {
+  "text": "4 adults want 5 days in Maldives around \u20b986,000. packed pace please, 4-star",
+  "dest": "Maldives",
+  "nights": 4,
+  "adults": 4,
+  "budget": 86000
+ },
+ {
+  "text": "Plan Maldives for 4 adults, 8 nights, 149k budget. We prefer a packed itinerary. 4 star",
+  "dest": "Maldives",
+  "nights": 8,
+  "adults": 4,
+  "budget": 149000
+ },
+ {
+  "text": "Need a 7 night Dubai trip for 2 adults, budget 0.94 lakh, relaxed trip, 4 star hotel",
+  "dest": "Dubai",
+  "nights": 7,
+  "adults": 2,
+  "budget": 94000
+ },
+ {
+  "text": "3 adults want 8 days in Maldives around \u20b9181,000. balanced pace please, 4-star",
+  "dest": "Maldives",
+  "nights": 7,
+  "adults": 3,
+  "budget": 181000
+ },
+ {
+  "text": "Plan Paris for 3 adults, 5 nights, 75k budget. We prefer a balanced itinerary. 4 star",
+  "dest": "Paris",
+  "nights": 5,
+  "adults": 3,
+  "budget": 75000
+ },
+ {
+  "text": "Need a 6 night Dubai trip for 2 adults, budget 1.05 lakh, balanced trip, 4 star hotel",
+  "dest": "Dubai",
+  "nights": 6,
+  "adults": 2,
+  "budget": 105000
+ },
+ {
+  "text": "2 adults want 4 days in Singapore around \u20b9116,000. packed pace please, 4-star",
+  "dest": "Singapore",
+  "nights": 3,
+  "adults": 2,
+  "budget": 116000
+ },
+ {
+  "text": "Plan Bali for 4 adults, 6 nights, 142k budget. We prefer a balanced itinerary. 4 star",
+  "dest": "Bali",
+  "nights": 6,
+  "adults": 4,
+  "budget": 142000
+ },
+ {
+  "text": "Need a 6 night Bali trip for 2 adults, budget 1.36 lakh, balanced trip, 4 star hotel",
+  "dest": "Bali",
+  "nights": 6,
+  "adults": 2,
+  "budget": 136000
+ },
+ {
+  "text": "1 adults want 9 days in Paris around \u20b9121,000. balanced pace please, 4-star",
+  "dest": "Paris",
+  "nights": 8,
+  "adults": 1,
+  "budget": 121000
+ },
+ {
+  "text": "Plan Bangkok for 1 adults, 4 nights, 175k budget. We prefer a balanced itinerary. 4 star",
+  "dest": "Bangkok",
+  "nights": 4,
+  "adults": 1,
+  "budget": 175000
+ },
+ {
+  "text": "Need a 5 night Dubai trip for 4 adults, budget 0.9 lakh, packed trip, 4 star hotel",
+  "dest": "Dubai",
+  "nights": 5,
+  "adults": 4,
+  "budget": 90000
+ },
+ {
+  "text": "1 adults want 8 days in Dubai around \u20b9129,000. relaxed pace please, 4-star",
+  "dest": "Dubai",
+  "nights": 7,
+  "adults": 1,
+  "budget": 129000
+ },
+ {
+  "text": "Plan London for 3 adults, 3 nights, 78k budget. We prefer a balanced itinerary. 4 star",
+  "dest": "London",
+  "nights": 3,
+  "adults": 3,
+  "budget": 78000
+ },
+ {
+  "text": "Need a 8 night London trip for 2 adults, budget 1.44 lakh, packed trip, 4 star hotel",
+  "dest": "London",
+  "nights": 8,
+  "adults": 2,
+  "budget": 144000
+ },
+ {
+  "text": "3 adults want 9 days in Japan around \u20b980,000. relaxed pace please, 4-star",
+  "dest": "Japan",
+  "nights": 8,
+  "adults": 3,
+  "budget": 80000
+ },
+ {
+  "text": "Plan Maldives for 4 adults, 4 nights, 94k budget. We prefer a packed itinerary. 4 star",
+  "dest": "Maldives",
+  "nights": 4,
+  "adults": 4,
+  "budget": 94000
+ },
+ {
+  "text": "Need a 3 night Maldives trip for 1 adults, budget 1.83 lakh, balanced trip, 4 star hotel",
+  "dest": "Maldives",
+  "nights": 3,
+  "adults": 1,
+  "budget": 183000
+ },
+ {
+  "text": "3 adults want 7 days in Japan around \u20b968,000. balanced pace please, 4-star",
+  "dest": "Japan",
+  "nights": 6,
+  "adults": 3,
+  "budget": 68000
+ },
+ {
+  "text": "Plan Bali for 2 adults, 8 nights, 93k budget. We prefer a relaxed itinerary. 4 star",
+  "dest": "Bali",
+  "nights": 8,
+  "adults": 2,
+  "budget": 93000
+ },
+ {
+  "text": "Need a 3 night Paris trip for 4 adults, budget 1.39 lakh, packed trip, 4 star hotel",
+  "dest": "Paris",
+  "nights": 3,
+  "adults": 4,
+  "budget": 139000
+ },
+ {
+  "text": "3 adults want 8 days in Bali around \u20b9105,000. balanced pace please, 4-star",
+  "dest": "Bali",
+  "nights": 7,
+  "adults": 3,
+  "budget": 105000
+ },
+ {
+  "text": "Plan Bali for 1 adults, 7 nights, 160k budget. We prefer a relaxed itinerary. 4 star",
+  "dest": "Bali",
+  "nights": 7,
+  "adults": 1,
+  "budget": 160000
+ },
+ {
+  "text": "Need a 7 night Bangkok trip for 1 adults, budget 0.77 lakh, packed trip, 4 star hotel",
+  "dest": "Bangkok",
+  "nights": 7,
+  "adults": 1,
+  "budget": 77000
+ },
+ {
+  "text": "1 adults want 9 days in Bali around \u20b9161,000. balanced pace please, 4-star",
+  "dest": "Bali",
+  "nights": 8,
+  "adults": 1,
+  "budget": 161000
+ },
+ {
+  "text": "Plan Bali for 3 adults, 3 nights, 182k budget. We prefer a balanced itinerary. 4 star",
+  "dest": "Bali",
+  "nights": 3,
+  "adults": 3,
+  "budget": 182000
+ },
+ {
+  "text": "Need a 5 night Paris trip for 1 adults, budget 0.99 lakh, balanced trip, 4 star hotel",
+  "dest": "Paris",
+  "nights": 5,
+  "adults": 1,
+  "budget": 99000
+ },
+ {
+  "text": "2 adults want 9 days in Paris around \u20b9132,000. packed pace please, 4-star",
+  "dest": "Paris",
+  "nights": 8,
+  "adults": 2,
+  "budget": 132000
+ },
+ {
+  "text": "Plan Maldives for 4 adults, 7 nights, 199k budget. We prefer a packed itinerary. 4 star",
+  "dest": "Maldives",
+  "nights": 7,
+  "adults": 4,
+  "budget": 199000
+ },
+ {
+  "text": "Need a 5 night Singapore trip for 4 adults, budget 0.6 lakh, relaxed trip, 4 star hotel",
+  "dest": "Singapore",
+  "nights": 5,
+  "adults": 4,
+  "budget": 60000
+ },
+ {
+  "text": "3 adults want 8 days in Maldives around \u20b9150,000. packed pace please, 4-star",
+  "dest": "Maldives",
+  "nights": 7,
+  "adults": 3,
+  "budget": 150000
+ },
+ {
+  "text": "Plan Singapore for 2 adults, 8 nights, 174k budget. We prefer a packed itinerary. 4 star",
+  "dest": "Singapore",
+  "nights": 8,
+  "adults": 2,
+  "budget": 174000
+ },
+ {
+  "text": "Need a 3 night Japan trip for 4 adults, budget 1.27 lakh, balanced trip, 4 star hotel",
+  "dest": "Japan",
+  "nights": 3,
+  "adults": 4,
+  "budget": 127000
+ },
+ {
+  "text": "3 adults want 9 days in London around \u20b9161,000. relaxed pace please, 4-star",
+  "dest": "London",
+  "nights": 8,
+  "adults": 3,
+  "budget": 161000
+ },
+ {
+  "text": "Plan Singapore for 1 adults, 4 nights, 187k budget. We prefer a relaxed itinerary. 4 star",
+  "dest": "Singapore",
+  "nights": 4,
+  "adults": 1,
+  "budget": 187000
+ },
+ {
+  "text": "Need a 3 night Bangkok trip for 1 adults, budget 1.08 lakh, balanced trip, 4 star hotel",
+  "dest": "Bangkok",
+  "nights": 3,
+  "adults": 1,
+  "budget": 108000
+ },
+ {
+  "text": "4 adults want 9 days in Bangkok around \u20b9198,000. balanced pace please, 4-star",
+  "dest": "Bangkok",
+  "nights": 8,
+  "adults": 4,
+  "budget": 198000
+ },
+ {
+  "text": "Plan Bangkok for 2 adults, 3 nights, 193k budget. We prefer a relaxed itinerary. 4 star",
+  "dest": "Bangkok",
+  "nights": 3,
+  "adults": 2,
+  "budget": 193000
+ },
+ {
+  "text": "Need a 5 night Singapore trip for 1 adults, budget 0.82 lakh, packed trip, 4 star hotel",
+  "dest": "Singapore",
+  "nights": 5,
+  "adults": 1,
+  "budget": 82000
+ },
+ {
+  "text": "3 adults want 9 days in Maldives around \u20b9185,000. packed pace please, 4-star",
+  "dest": "Maldives",
+  "nights": 8,
+  "adults": 3,
+  "budget": 185000
+ },
+ {
+  "text": "Plan London for 3 adults, 7 nights, 176k budget. We prefer a balanced itinerary. 4 star",
+  "dest": "London",
+  "nights": 7,
+  "adults": 3,
+  "budget": 176000
+ },
+ {
+  "text": "Need a 8 night Bali trip for 4 adults, budget 1.17 lakh, balanced trip, 4 star hotel",
+  "dest": "Bali",
+  "nights": 8,
+  "adults": 4,
+  "budget": 117000
+ },
+ {
+  "text": "1 adults want 9 days in Paris around \u20b994,000. relaxed pace please, 4-star",
+  "dest": "Paris",
+  "nights": 8,
+  "adults": 1,
+  "budget": 94000
+ },
+ {
+  "text": "Plan Bali for 3 adults, 3 nights, 193k budget. We prefer a balanced itinerary. 4 star",
+  "dest": "Bali",
+  "nights": 3,
+  "adults": 3,
+  "budget": 193000
+ },
+ {
+  "text": "Need a 4 night Paris trip for 4 adults, budget 1.55 lakh, packed trip, 4 star hotel",
+  "dest": "Paris",
+  "nights": 4,
+  "adults": 4,
+  "budget": 155000
+ },
+ {
+  "text": "3 adults want 5 days in Paris around \u20b9148,000. relaxed pace please, 4-star",
+  "dest": "Paris",
+  "nights": 4,
+  "adults": 3,
+  "budget": 148000
+ },
+ {
+  "text": "Plan Japan for 2 adults, 8 nights, 146k budget. We prefer a relaxed itinerary. 4 star",
+  "dest": "Japan",
+  "nights": 8,
+  "adults": 2,
+  "budget": 146000
+ },
+ {
+  "text": "Need a 7 night Bali trip for 1 adults, budget 0.67 lakh, relaxed trip, 4 star hotel",
+  "dest": "Bali",
+  "nights": 7,
+  "adults": 1,
+  "budget": 67000
+ },
+ {
+  "text": "2 adults want 5 days in Bali around \u20b9174,000. packed pace please, 4-star",
+  "dest": "Bali",
+  "nights": 4,
+  "adults": 2,
+  "budget": 174000
+ },
+ {
+  "text": "Plan London for 1 adults, 6 nights, 144k budget. We prefer a packed itinerary. 4 star",
+  "dest": "London",
+  "nights": 6,
+  "adults": 1,
+  "budget": 144000
+ },
+ {
+  "text": "Need a 5 night Japan trip for 1 adults, budget 1.23 lakh, balanced trip, 4 star hotel",
+  "dest": "Japan",
+  "nights": 5,
+  "adults": 1,
+  "budget": 123000
+ },
+ {
+  "text": "2 adults want 6 days in Paris around \u20b9194,000. relaxed pace please, 4-star",
+  "dest": "Paris",
+  "nights": 5,
+  "adults": 2,
+  "budget": 194000
+ },
+ {
+  "text": "Plan London for 1 adults, 5 nights, 117k budget. We prefer a balanced itinerary. 4 star",
+  "dest": "London",
+  "nights": 5,
+  "adults": 1,
+  "budget": 117000
+ },
+ {
+  "text": "Need a 3 night Paris trip for 1 adults, budget 0.68 lakh, packed trip, 4 star hotel",
+  "dest": "Paris",
+  "nights": 3,
+  "adults": 1,
+  "budget": 68000
+ },
+ {
+  "text": "1 adults want 6 days in Paris around \u20b9157,000. packed pace please, 4-star",
+  "dest": "Paris",
+  "nights": 5,
+  "adults": 1,
+  "budget": 157000
+ },
+ {
+  "text": "Plan London for 3 adults, 8 nights, 75k budget. We prefer a packed itinerary. 4 star",
+  "dest": "London",
+  "nights": 8,
+  "adults": 3,
+  "budget": 75000
+ },
+ {
+  "text": "Need a 8 night Japan trip for 3 adults, budget 1.63 lakh, packed trip, 4 star hotel",
+  "dest": "Japan",
+  "nights": 8,
+  "adults": 3,
+  "budget": 163000
+ },
+ {
+  "text": "3 adults want 9 days in Japan around \u20b9188,000. packed pace please, 4-star",
+  "dest": "Japan",
+  "nights": 8,
+  "adults": 3,
+  "budget": 188000
+ },
+ {
+  "text": "Plan Bangkok for 1 adults, 3 nights, 120k budget. We prefer a relaxed itinerary. 4 star",
+  "dest": "Bangkok",
+  "nights": 3,
+  "adults": 1,
+  "budget": 120000
+ },
+ {
+  "text": "Need a 4 night Dubai trip for 2 adults, budget 0.94 lakh, packed trip, 4 star hotel",
+  "dest": "Dubai",
+  "nights": 4,
+  "adults": 2,
+  "budget": 94000
+ },
+ {
+  "text": "4 adults want 5 days in Japan around \u20b994,000. balanced pace please, 4-star",
+  "dest": "Japan",
+  "nights": 4,
+  "adults": 4,
+  "budget": 94000
+ },
+ {
+  "text": "Plan Dubai for 3 adults, 4 nights, 83k budget. We prefer a relaxed itinerary. 4 star",
+  "dest": "Dubai",
+  "nights": 4,
+  "adults": 3,
+  "budget": 83000
+ },
+ {
+  "text": "Need a 7 night Dubai trip for 1 adults, budget 1.23 lakh, relaxed trip, 4 star hotel",
+  "dest": "Dubai",
+  "nights": 7,
+  "adults": 1,
+  "budget": 123000
+ },
+ {
+  "text": "4 adults want 7 days in Bangkok around \u20b9135,000. packed pace please, 4-star",
+  "dest": "Bangkok",
+  "nights": 6,
+  "adults": 4,
+  "budget": 135000
+ },
+ {
+  "text": "Plan Paris for 2 adults, 7 nights, 90k budget. We prefer a balanced itinerary. 4 star",
+  "dest": "Paris",
+  "nights": 7,
+  "adults": 2,
+  "budget": 90000
+ },
+ {
+  "text": "Need a 4 night Maldives trip for 1 adults, budget 1.4 lakh, packed trip, 4 star hotel",
+  "dest": "Maldives",
+  "nights": 4,
+  "adults": 1,
+  "budget": 140000
+ },
+ {
+  "text": "1 adults want 4 days in Bali around \u20b9125,000. packed pace please, 4-star",
+  "dest": "Bali",
+  "nights": 3,
+  "adults": 1,
+  "budget": 125000
+ },
+ {
+  "text": "Plan Japan for 4 adults, 8 nights, 67k budget. We prefer a relaxed itinerary. 4 star",
+  "dest": "Japan",
+  "nights": 8,
+  "adults": 4,
+  "budget": 67000
+ },
+ {
+  "text": "Need a 5 night Maldives trip for 4 adults, budget 0.81 lakh, relaxed trip, 4 star hotel",
+  "dest": "Maldives",
+  "nights": 5,
+  "adults": 4,
+  "budget": 81000
+ },
+ {
+  "text": "3 adults want 5 days in Dubai around \u20b9171,000. relaxed pace please, 4-star",
+  "dest": "Dubai",
+  "nights": 4,
+  "adults": 3,
+  "budget": 171000
+ },
+ {
+  "text": "Plan Bangkok for 3 adults, 4 nights, 120k budget. We prefer a packed itinerary. 4 star",
+  "dest": "Bangkok",
+  "nights": 4,
+  "adults": 3,
+  "budget": 120000
+ },
+ {
+  "text": "Need a 4 night London trip for 1 adults, budget 1.67 lakh, packed trip, 4 star hotel",
+  "dest": "London",
+  "nights": 4,
+  "adults": 1,
+  "budget": 167000
+ },
+ {
+  "text": "2 adults want 9 days in London around \u20b9141,000. relaxed pace please, 4-star",
+  "dest": "London",
+  "nights": 8,
+  "adults": 2,
+  "budget": 141000
+ },
+ {
+  "text": "Plan Maldives for 3 adults, 5 nights, 145k budget. We prefer a relaxed itinerary. 4 star",
+  "dest": "Maldives",
+  "nights": 5,
+  "adults": 3,
+  "budget": 145000
+ },
+ {
+  "text": "Need a 3 night London trip for 2 adults, budget 0.67 lakh, balanced trip, 4 star hotel",
+  "dest": "London",
+  "nights": 3,
+  "adults": 2,
+  "budget": 67000
+ },
+ {
+  "text": "4 adults want 9 days in Paris around \u20b9172,000. packed pace please, 4-star",
+  "dest": "Paris",
+  "nights": 8,
+  "adults": 4,
+  "budget": 172000
+ },
+ {
+  "text": "Plan Bangkok for 1 adults, 4 nights, 104k budget. We prefer a packed itinerary. 4 star",
+  "dest": "Bangkok",
+  "nights": 4,
+  "adults": 1,
+  "budget": 104000
+ },
+ {
+  "text": "Need a 5 night London trip for 4 adults, budget 0.82 lakh, relaxed trip, 4 star hotel",
+  "dest": "London",
+  "nights": 5,
+  "adults": 4,
+  "budget": 82000
+ },
+ {
+  "text": "2 adults want 4 days in Bangkok around \u20b9152,000. balanced pace please, 4-star",
+  "dest": "Bangkok",
+  "nights": 3,
+  "adults": 2,
+  "budget": 152000
+ },
+ {
+  "text": "Plan Singapore for 3 adults, 3 nights, 192k budget. We prefer a balanced itinerary. 4 star",
+  "dest": "Singapore",
+  "nights": 3,
+  "adults": 3,
+  "budget": 192000
+ },
+ {
+  "text": "Need a 5 night Japan trip for 1 adults, budget 1.83 lakh, relaxed trip, 4 star hotel",
+  "dest": "Japan",
+  "nights": 5,
+  "adults": 1,
+  "budget": 183000
+ },
+ {
+  "text": "3 adults want 9 days in Bali around \u20b974,000. balanced pace please, 4-star",
+  "dest": "Bali",
+  "nights": 8,
+  "adults": 3,
+  "budget": 74000
+ },
+ {
+  "text": "Plan Maldives for 4 adults, 5 nights, 86k budget. We prefer a relaxed itinerary. 4 star",
+  "dest": "Maldives",
+  "nights": 5,
+  "adults": 4,
+  "budget": 86000
+ },
+ {
+  "text": "Need a 7 night Paris trip for 4 adults, budget 1.12 lakh, balanced trip, 4 star hotel",
+  "dest": "Paris",
+  "nights": 7,
+  "adults": 4,
+  "budget": 112000
+ },
+ {
+  "text": "3 adults want 6 days in Bangkok around \u20b9101,000. balanced pace please, 4-star",
+  "dest": "Bangkok",
+  "nights": 5,
+  "adults": 3,
+  "budget": 101000
+ },
+ {
+  "text": "Plan Singapore for 1 adults, 7 nights, 106k budget. We prefer a relaxed itinerary. 4 star",
+  "dest": "Singapore",
+  "nights": 7,
+  "adults": 1,
+  "budget": 106000
+ },
+ {
+  "text": "Need a 5 night London trip for 3 adults, budget 1.08 lakh, relaxed trip, 4 star hotel",
+  "dest": "London",
+  "nights": 5,
+  "adults": 3,
+  "budget": 108000
+ },
+ {
+  "text": "3 adults want 8 days in London around \u20b9101,000. packed pace please, 4-star",
+  "dest": "London",
+  "nights": 7,
+  "adults": 3,
+  "budget": 101000
+ },
+ {
+  "text": "Plan Singapore for 1 adults, 3 nights, 186k budget. We prefer a packed itinerary. 4 star",
+  "dest": "Singapore",
+  "nights": 3,
+  "adults": 1,
+  "budget": 186000
+ },
+ {
+  "text": "Need a 6 night Singapore trip for 1 adults, budget 0.78 lakh, packed trip, 4 star hotel",
+  "dest": "Singapore",
+  "nights": 6,
+  "adults": 1,
+  "budget": 78000
+ },
+ {
+  "text": "3 adults want 4 days in Paris around \u20b9162,000. packed pace please, 4-star",
+  "dest": "Paris",
+  "nights": 3,
+  "adults": 3,
+  "budget": 162000
+ },
+ {
+  "text": "Plan Bangkok for 2 adults, 8 nights, 176k budget. We prefer a packed itinerary. 4 star",
+  "dest": "Bangkok",
+  "nights": 8,
+  "adults": 2,
+  "budget": 176000
+ },
+ {
+  "text": "Need a 6 night Bali trip for 4 adults, budget 0.62 lakh, relaxed trip, 4 star hotel",
+  "dest": "Bali",
+  "nights": 6,
+  "adults": 4,
+  "budget": 62000
+ },
+ {
+  "text": "4 adults want 5 days in Bali around \u20b9112,000. packed pace please, 4-star",
+  "dest": "Bali",
+  "nights": 4,
+  "adults": 4,
+  "budget": 112000
+ },
+ {
+  "text": "Plan Bangkok for 2 adults, 7 nights, 152k budget. We prefer a relaxed itinerary. 4 star",
+  "dest": "Bangkok",
+  "nights": 7,
+  "adults": 2,
+  "budget": 152000
+ },
+ {
+  "text": "Need a 3 night Paris trip for 4 adults, budget 1.75 lakh, balanced trip, 4 star hotel",
+  "dest": "Paris",
+  "nights": 3,
+  "adults": 4,
+  "budget": 175000
+ },
+ {
+  "text": "2 adults want 8 days in London around \u20b9161,000. balanced pace please, 4-star",
+  "dest": "London",
+  "nights": 7,
+  "adults": 2,
+  "budget": 161000
+ },
+ {
+  "text": "Plan Dubai for 3 adults, 4 nights, 166k budget. We prefer a packed itinerary. 4 star",
+  "dest": "Dubai",
+  "nights": 4,
+  "adults": 3,
+  "budget": 166000
+ },
+ {
+  "text": "Need a 4 night London trip for 2 adults, budget 1.64 lakh, relaxed trip, 4 star hotel",
+  "dest": "London",
+  "nights": 4,
+  "adults": 2,
+  "budget": 164000
+ },
+ {
+  "text": "3 adults want 5 days in Maldives around \u20b9185,000. balanced pace please, 4-star",
+  "dest": "Maldives",
+  "nights": 4,
+  "adults": 3,
+  "budget": 185000
+ },
+ {
+  "text": "Plan Maldives for 4 adults, 3 nights, 67k budget. We prefer a relaxed itinerary. 4 star",
+  "dest": "Maldives",
+  "nights": 3,
+  "adults": 4,
+  "budget": 67000
+ },
+ {
+  "text": "Need a 5 night London trip for 3 adults, budget 1.6 lakh, relaxed trip, 4 star hotel",
+  "dest": "London",
+  "nights": 5,
+  "adults": 3,
+  "budget": 160000
+ },
+ {
+  "text": "3 adults want 9 days in Bali around \u20b9170,000. packed pace please, 4-star",
+  "dest": "Bali",
+  "nights": 8,
+  "adults": 3,
+  "budget": 170000
+ },
+ {
+  "text": "Plan London for 4 adults, 3 nights, 115k budget. We prefer a balanced itinerary. 4 star",
+  "dest": "London",
+  "nights": 3,
+  "adults": 4,
+  "budget": 115000
+ }
+]
