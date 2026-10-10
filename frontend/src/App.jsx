@@ -354,7 +354,9 @@ function CopilotPage() {
   const [currentTrip, setCurrentTrip] = useState(null);
   const messagesEndRef = useRef(null);
 
-  const scrollToBottom = () => messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+  const scrollToBottom = () => {
+    messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+  };
   useEffect(scrollToBottom, [messages]);
 
   const addMsg = (role, content) => setMessages(m => [...m, { role, content }]);
